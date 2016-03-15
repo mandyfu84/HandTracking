@@ -13,6 +13,8 @@ This is the hand tracking and gesture recognition procedural sample that shows h
 
 */
 
+//123test
+
 #include <windows.h>
 #include "pxcsensemanager.h"
 #include "pxchandconfiguration.h"
